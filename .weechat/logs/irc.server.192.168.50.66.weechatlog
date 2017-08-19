@@ -1,0 +1,55 @@
+2017-08-16 20:41:37	--	irc: connecting to server 192.168.50.66/6666...
+2017-08-16 20:41:37	--	irc: connected to 192.168.50.66/6666 (192.168.50.66)
+2017-08-16 20:41:37	--	hybrid8.debian.local (hybrid8.debian.local): *** Looking up your hostname...
+2017-08-16 20:41:37	--	hybrid8.debian.local (hybrid8.debian.local): *** Checking Ident
+2017-08-16 20:41:37	--	hybrid8.debian.local (hybrid8.debian.local): *** No Ident response
+2017-08-16 20:41:37	--	hybrid8.debian.local (hybrid8.debian.local): *** Couldn't look up your hostname
+2017-08-16 20:41:37	--	hybrid8.debian.local (hybrid8.debian.local): *** Notice -- You need to install identd to use this server
+2017-08-16 20:41:37	=!=	Closing Link: 192.168.50.11 (Install identd)
+2017-08-16 20:41:37	--	irc: disconnected from server
+2017-08-16 20:41:37	--	irc: reconnecting to server in 10 seconds
+2017-08-16 20:41:47	--	irc: reconnecting to server...
+2017-08-16 20:41:47	--	irc: connecting to server 192.168.50.66/6666...
+2017-08-16 20:41:47	--	irc: connected to 192.168.50.66/6666 (192.168.50.66)
+2017-08-16 20:41:47	--	hybrid8.debian.local (hybrid8.debian.local): *** Looking up your hostname...
+2017-08-16 20:41:47	--	hybrid8.debian.local (hybrid8.debian.local): *** Checking Ident
+2017-08-16 20:41:47	--	hybrid8.debian.local (hybrid8.debian.local): *** No Ident response
+2017-08-16 20:41:47	--	hybrid8.debian.local (hybrid8.debian.local): *** Couldn't look up your hostname
+2017-08-16 20:41:47	--	hybrid8.debian.local (hybrid8.debian.local): *** Notice -- You need to install identd to use this server
+2017-08-16 20:41:47	=!=	Closing Link: 192.168.50.11 (Install identd)
+2017-08-16 20:41:47	--	irc: disconnected from server
+2017-08-16 20:41:47	--	irc: reconnecting to server in 20 seconds
+2017-08-16 20:42:06	--	irc: disconnected from server
+2017-08-16 20:42:26	--	irc: connecting to server 192.168.50.66/6666...
+2017-08-16 20:42:26	--	irc: connected to 192.168.50.66/6666 (192.168.50.66)
+2017-08-16 20:42:26	--	hybrid8.debian.local (hybrid8.debian.local): *** Looking up your hostname...
+2017-08-16 20:42:26	--	hybrid8.debian.local (hybrid8.debian.local): *** Checking Ident
+2017-08-16 20:42:27	--	hybrid8.debian.local (hybrid8.debian.local): *** Couldn't look up your hostname
+2017-08-16 20:42:27	--	hybrid8.debian.local (hybrid8.debian.local): *** Got Ident response
+2017-08-16 20:42:27	--	Welcome to the debian Internet Relay Chat Network vagrant
+2017-08-16 20:42:27	--	Your host is hybrid8.debian.local[0.0.0.0/6666], running version hybrid-1:8.1.13.dfsg.1-1
+2017-08-16 20:42:27	--	This server was created Jan  9 2014 at 05:35:43
+2017-08-16 20:42:27	--	hybrid8.debian.local hybrid-1:8.1.13.dfsg.1-1 DFGHRSWabcdefgijklnorsuwxyz bciklmnoprstveIMORS bkloveIh
+2017-08-16 20:42:27	--	CALLERID CASEMAPPING=rfc1459 DEAF=D KICKLEN=180 MODES=4 PREFIX=(ohv)@%+ STATUSMSG=@%+ EXCEPTS=e INVEX=I NICKLEN=15 NETWORK=debian MAXLIST=beI:100 MAXTARGETS=4 :are supported by this server
+2017-08-16 20:42:27	--	CHANTYPES=# CHANLIMIT=#:25 CHANNELLEN=50 TOPICLEN=300 CHANMODES=beI,k,l,imnprstORS AWAYLEN=180 ELIST=CMNTU SAFELIST WATCH=60 KNOCK :are supported by this server
+2017-08-16 20:42:27	--	0HYAAAAAB :your unique ID
+2017-08-16 20:42:27	--	There are 0 users and 2 invisible on 1 servers
+2017-08-16 20:42:27	--	1 :channels formed
+2017-08-16 20:42:27	--	I have 2 clients and 0 servers
+2017-08-16 20:42:27	--	Current local users: 2  Max: 2
+2017-08-16 20:42:27	--	Current global users: 2  Max: 2
+2017-08-16 20:42:27	--	Highest connection count: 1 (1 clients) (2 connections received)
+2017-08-16 20:42:27	--	- hybrid8.debian.local Message of the Day -
+2017-08-16 20:42:27	--	-  ___ ___  ___    ___  ___ ___
+2017-08-16 20:42:27	--	- |_ _| _ \/ __|__| _ \/ __| _ \
+2017-08-16 20:42:27	--	-  | ||   / (_|___|  _/ (_ |  _/
+2017-08-16 20:42:27	--	- |___|_|_\\___|  |_|  \___|_|
+2017-08-16 20:42:27	--	-
+2017-08-16 20:42:27	--	- IRC Server for IRC-PGP Project 2016
+2017-08-16 20:42:27	--	- ~~~ Soft Dev 4th Year ~~~
+2017-08-16 20:42:27	--	End of /MOTD command.
+2017-08-16 20:42:27	--	User mode [+i] by vagrant
+2017-08-16 20:42:43	=!=	irc: this buffer is not a channel!
+2017-08-16 20:42:50	=!=	irc: this buffer is not a channel!
+2017-08-16 20:44:52	--	MSG(root): hi
+2017-08-16 20:57:54	--	irc: disconnected from server

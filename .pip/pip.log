@@ -1,0 +1,27 @@
+------------------------------------------------------------
+/home/vagrant/botnet-lab/botnet-lab/venv/bin/pip run on Sat Aug 19 12:11:45 2017
+Downloading/unpacking hg+http://bitbucket.org/pygame/pygame (from -r requirements.txt (line 13))
+  Cloning hg http://bitbucket.org/pygame/pygame to /tmp/pip-wbov82-build
+Cleaning up...
+Cannot find command 'hg'
+Exception information:
+Traceback (most recent call last):
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/basecommand.py", line 122, in main
+    status = self.run(options, args)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/commands/install.py", line 278, in run
+    requirement_set.prepare_files(finder, force_root_egg_info=self.bundle, bundle=self.bundle)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/req.py", line 1197, in prepare_files
+    do_download,
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/req.py", line 1360, in unpack_url
+    unpack_vcs_link(link, loc, only_download)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/download.py", line 344, in unpack_vcs_link
+    vcs_backend.unpack(location)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/vcs/__init__.py", line 240, in unpack
+    self.obtain(location)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/vcs/mercurial.py", line 81, in obtain
+    call_subprocess([self.cmd, 'clone', '--noupdate', '-q', url, dest])
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/vcs/__init__.py", line 110, in cmd
+    command = find_command(self.name)
+  File "/home/vagrant/botnet-lab/botnet-lab/venv/local/lib/python2.7/site-packages/pip/util.py", line 109, in find_command
+    raise BadCommand('Cannot find command %r' % cmd)
+BadCommand: Cannot find command 'hg'

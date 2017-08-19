@@ -1,0 +1,8 @@
+2017-08-16 20:41:17		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2017-08-16 20:41:37		irc: server 192.168.50.66 created (temporary server, NOT SAVED!)
+2017-08-16 20:42:06		fifo: pipe closed
+2017-08-16 20:42:14		Plugins loaded: alias, aspell, charset, fifo, irc, logger, lua, perl, python, relay, rmodifier, ruby, script, tcl, xfer
+2017-08-16 20:42:26		irc: server 192.168.50.66 created (temporary server, NOT SAVED!)
+2017-08-16 20:43:11	=!=	Error: unknown command "joing" (type /help for help)
+2017-08-16 20:45:34	=!=	Error: unknown command "H" (type /help for help)
+2017-08-16 20:57:54		fifo: pipe closed
