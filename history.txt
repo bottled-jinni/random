@@ -1,0 +1,199 @@
+    1  ls
+    2  tree
+    3  clear
+    4  ls
+    5  cd code/
+    6  ls
+    7  pip install -r requirements.txt 
+    8  wget https://sourceforge.net/projects/python-xlib/files/python-xlib/0.15rc1/python-xlib-0.15rc1.tar.gz
+    9  tar xvf python-xlib-0.15rc1.tar.gz
+   10  cd python-xlib-0.15rc1/
+   11  python setup.py install
+   12  clear
+   13  cd ..
+   14  ls
+   15  rm python-xlib-0.15rc1.tar.gz 
+   16  pip install -r requirements.txt 
+   17  ls
+   18  virtualenv venv
+   19  . venv/bin/activate
+   20  pip install -r requirements.txt 
+   21  cd python-xlib-0.15rc1/
+   22  python setup.py install
+   23  cd ..
+   24  pip install -r requirements.txt 
+   25  cat requirements.txt 
+   26  pip install autopy==0.51
+   27  clear
+   28  cat requirements.txt 
+   29  pip install backports-abc==0.4
+   30  cat requirements.txt 
+   31  pip install backports.ssl-match-hostname==3.5.0.1
+   32  pip intall certifi==2016.2.28
+   33  pip install certifi==2016.2.28
+   34  pip install pycrypto==2.6.1
+   35  clear
+   36  cat requirements.txt 
+   37  pip install python-xlib==0.15rc1
+   38  pip install requests==2.9.1
+   39  pip install singledispatch==3.4.0.3
+   40  pip install six==1.10.0
+   41  vim requirements.txt 
+   42  pip install -r requirements.txt 
+   43  cat requirements.txt 
+   44  clear
+   45  cat requirements.txt 
+   46  cd
+   47  git clone git://github.com/msanders/autopy.git
+   48  clear
+   49  env
+   50  ping $IRC_SERVER
+   51  clear
+   52  ls
+   53  cd /code/
+   54  ls
+   55  cd bot/
+   56  ls
+   57  python bot.py 
+   58  cd
+   59  ls
+   60  cd /code/
+   61  ls
+   62  git clone git://github.com/msanders/autopy.git
+   63  easy_install autopy
+   64  udo apt-get install libx11-dev
+   65  apt-get install libx11-dev
+   66  easy_install autopy
+   67  vim install.sh
+   68  bash install.sh 
+   69  vim install.sh 
+   70  bash install.sh 
+   71  clear
+   72  ls
+   73  pip install -r requirements.txt 
+   74  clear
+   75  vim requirements.txt 
+   76  pip install -r requirements.txt 
+   77  history | grep easy
+   78  easy_install autopy
+   79  sudo apt-get install build-essential libssl-dev libffi-dev python-dev
+   80  easy_install autopy
+   81  clear
+   82  apt-get update -y
+   83  apt-get upgrade -y
+   84  easy_install autopy
+   85  sudo apt-get install python-dev 
+   86  clear
+   87  sudo apt-get install python-dev 
+   88  history | grep easy
+   89  easy_install autopy
+   90  sudo apt-get install apt-file
+   91  sudo apt-file update
+   92  apt-file search "X11/extensions/XTest.h"
+   93  apt-get install libxtst-dev
+   94  clear
+   95  ls
+   96  pip install -r requirements.txt 
+   97  clear
+   98  apt-file search "png.h"
+   99  apt-get update
+  100  clear
+  101  easy_install autopy
+  102  apt-file search "png.h" | grep auto
+  103  sudo apt-get install libpng-dev
+  104  clear
+  105  easy_install autopy 
+  106  clear
+  107  ls
+  108  cd bot/
+  109  ls
+  110  clear
+  111  ls
+  112  python bot.py 
+  113  cd
+  114  clear
+  115  ls
+  116  cd /code/
+  117  wget http://cz.archive.ubuntu.com/ubuntu/pool/universe/p/pygame/python-pygame_1.9.1release+dfsg-9ubuntu1_amd64.deb
+  118  ls
+  119  dpkg -i python-pygame_1.9.1release+dfsg-9ubuntu1_amd64.deb 
+  120  clear
+  121  dpkg -ivg python-pygame_1.9.1release+dfsg-9ubuntu1_amd64.deb 
+  122  dpkg -ivh python-pygame_1.9.1release+dfsg-9ubuntu1_amd64.deb 
+  123  clear
+  124  sudo dpkg -i python-pygame_1.9.1release+dfsg-9ubuntu1_amd64.deb
+  125  python bot/
+  126  ls
+  127  python bot/bot.py 
+  128  ls
+  129  clear
+  130  wget https://pypi.python.org/packages/61/06/3c25051549c252cc6fde01c8aeae90b96831370884504fe428a623316def/pygame-1.9.3.tar.gz
+  131  ls
+  132  tar -xvf pygame-1.9.3.tar.gz 
+  133  clear
+  134  ls
+  135  cd pygame-1.9.3
+  136  ls
+  137  python setup.py install
+  138  ls
+  139  python setup install
+  140  clear
+  141  python setup.py install
+  142  python setup.cfg install
+  143  python setup.py install
+  144  clear
+  145  python setup.py install
+  146  sudo apt-get build-dep python-pygame
+  147  clear
+  148  ls
+  149  python setup.py install
+  150  clear
+  151  ls
+  152  cd ..
+  153  ls
+  154  cd bot/
+  155  ls
+  156  python bot.py 
+  157  clear
+  158  ls
+  159  cd ../client/
+  160  ls
+  161  python client.py 
+  162  pip install dcrypt
+  163  pip install decrypt
+  164  clear
+  165  python client.py 
+  166  ls
+  167  apt-get update -y
+  168  clear
+  169  python client.py 
+  170  ls
+  171  easy_install decrypt
+  172  cat wwwirc.py
+  173  clear
+  174  cd ..
+  175  python bot/bot.py 
+  176  cd bot/
+  177  ls
+  178  python bot.py 
+  179  vim bot.py 
+  180  python bot.py 
+  181  clear
+  182  vim bot.py 
+  183  python bot.py 
+  184  clear
+  185  cd
+  186  clear
+  187  history 
+  188  clear
+  189  ls
+  190  git
+  191  ls
+  192  clear
+  193  git clone
+  194  git clone https://github.com/bottled-jinni/random.git
+  195  clear
+  196  ls
+  197  cd random/
+  198  ls
+  199  history > history.txt
